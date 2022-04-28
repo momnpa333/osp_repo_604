@@ -1,7 +1,9 @@
 # osp_repo_604
 Repo for open sourse progamming class
 
-//7주차 과제 소스파일 설명 및 사용햔 Python 버전
+//7주차 과제 소스파일 설명 및 사용한 Python 버전
+
+
 pprint 내장 라이브러리
 requests 라이브러리(사용을 위해 install 해줌)
 을 import함
